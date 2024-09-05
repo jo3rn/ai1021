@@ -236,7 +236,7 @@ Make your presentation appealing, engaging and informative so that we all benefi
 
 | Milestone      | allotted time | Date                   |
 | -------------- | ------------- | ---------------------- |
-| Presentation   | 10 min (max!) | Week 07 and Week 08    |
+| Presentation   | 10 min (max!) | Week 08 and Week 09    |
 
 <a id="toc-final-project"></a>
 
