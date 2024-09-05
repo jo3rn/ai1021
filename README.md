@@ -172,9 +172,9 @@ Final grades are determined using the following weights:
 
 |                               |     |
 | ----------------------------- | --- |
-| final project                 | 70% |
-| scientific paper presentation | 15% |
-| (active) attendance           | 15% |
+| final project                 | 60% |
+| scientific paper presentation | 20% |
+| (active) attendance           | 20% |
 
 The basis for evaluation:
 
