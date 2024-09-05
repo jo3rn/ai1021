@@ -37,25 +37,20 @@ This course ordinarily meets for a lecture and discussion session on campus on T
 
 Among this course’s objectives are that you learn how to:
 
-- think more methodically;
-- program procedurally;
-- represent and process information;
-- communicate succinctly and precisely;
-- solve problems efficiently;
-- recognize patterns among problems;
-- decompose problems into parts and compose solutions thereto;
-- operate at multiple levels of abstraction;
-- separate design from implementation details;
-- infer from first principles how systems work;
-- assess the correctness, design, and style of code;
-- teach yourself new languages;
-- identify threats to privacy and security;
-- read documentation, drawing conclusions from specifications;
-- test solutions to problems, find faults, and identify corner cases;
-- describe symptoms of problems precisely and ask questions clearly; and
-- identify and quantify trade-offs among resources, particularly time and space.
-
-Ultimately, the course aspires to provide you with a foundation for further studies in computer science and to empower you to apply computer science to problems in other domains.
+- manage and lead a project
+- decompose a project into tasks
+- plan your work
+- monitor and document progress
+- communicate outcomes succinctly and precisely
+- use agile and classic project management tools
+- think more methodically
+- operate at multiple levels of abstraction
+- separate design from implementation details
+- assess the correctness, design, and style of code
+- identify threats to privacy and security
+- read documentation, drawing conclusions from specifications
+- assure the quality of your software, find faults, and identify corner cases
+- identify trade-offs among resources
 
 <a id="toc-outline"></a>
 
@@ -142,6 +137,8 @@ Team building. Team dynamics. Continuous Improvement.
 <a id="toc-week-13"></a>
 
 ### Week 13 Hackathon
+
+Bug Bounty.
 
 <a id="toc-week-14"></a>
 
