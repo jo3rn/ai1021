@@ -88,6 +88,8 @@ UX. UI. Colors. Icons. Material Design.
 
 <a id="toc-week-5"></a>
 
+Components. Interfaces. Configuration. Decision Records. Model-View-Controller. Microservices. Events. Feature Toggles.
+
 ### Week 05 Documentation
 
 README.md. OpenAPI. Swagger. Wikis.
@@ -96,13 +98,13 @@ README.md. OpenAPI. Swagger. Wikis.
 
 ### Week 06 Agile
 
-Agile Manifesto. Scrum Guide. Retrospective.
+Agile Manifesto. Scrum Guide. Retrospective. Extreme Programming.
 
 <a id="toc-week-7"></a>
 
 ### Week 07 Coding together
 
-Acceptance Criteria. Definition of Done. Definition of Ready. Code Review.
+Acceptance Criteria. Definition of Done. Definition of Ready. Code Review. Task Automation.
 
 <a id="toc-week-8"></a>
 
@@ -120,7 +122,7 @@ Scientific Method. Peer Review.
 
 ### Week 10 Testing
 
-Testing Pyramid. Unit Tests. Test Driven Development (TDD). Test Automation.
+Testing Pyramid. Unit Tests. Test Driven Development (TDD). Decoupling. Test Automation.
 
 <a id="toc-week-11"></a>
 
@@ -132,7 +134,7 @@ Team building. Team dynamics. Continuous Improvement.
 
 ### Week 12 Infrastructure
 
-12 Factor App. Continuous Delivery (CD). Dependabot. GitHub actions. Logging. Monitoring. Service Level Agreement (SLA). Disaster Recovery Plan. Post Mortem. Cost Management. DevOps.
+12 Factor App. Continuous Delivery (CD). Dependabot. GitHub actions. Logging. Monitoring. Service Level Agreement (SLA). Disaster Recovery Plan. Post Mortem. Cost Management. DevOps. Infrastructure as Code.
 
 <a id="toc-week-13"></a>
 
@@ -191,12 +193,12 @@ No books are required. You can ask for recommendations on specific topics though
 
 ## Lectures
 
-| Week   | Lecture                          | Date       |
-| ------ | -------------------------------- | ---------- |
-| Week 00 | Introduction & Orga             | 2024-10-15 |
-| Week 01 | Git                             | 2024-10-22 |
-| Week 02 | Ideation & Planning             | 2024-10-29 |
-| Week 03 | Design                          | 2024-11-05 |
+| Week    | Topic                           | Date       |
+| ------- | ------------------------------- | ---------- |
+| Week 00 | Introduction & Orga             | 2024-10-22 |
+| Week 01 | Git                             | 2024-10-29 |
+| Week 02 | Ideation & Planning             | 2024-11-05 |
+| Week 03 | Design                          | 2024-11-12 |
 | Week 04 | Architecture                    | 2024-11-12 |
 | Week 05 | Documentation                   | 2024-11-19 |
 | Week 06 | Agile                           | 2024-11-26 |
