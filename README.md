@@ -244,13 +244,13 @@ Make your presentation appealing, engaging and informative so that we all benefi
 
 ## Final Project
 
-The climax of this course is its final project. The final project is your opportunity to showcase your graduation progress and develop your very own piece of software. So long as the project draws upon your degree’s learning objectives, the nature of your project is entirely up to you (albeit subject to the my approval).
+The climax of this course is its final project. The final project is your opportunity to showcase your graduation progress and develop your very own piece of software. So long as the project draws upon your degree’s learning objectives, the nature of your project is entirely up to you (albeit subject to my approval).
 
-You may implement your project in almost any language(s). You are welcome to utilize any infrastructure, provided you grant the me access to any hardware and software that your project requires. Deviations from this rule must be well justified (e.g. the hardware cannot be transported or removed).
+You may implement your project in almost any language(s). You are welcome to utilize any infrastructure, provided you grant me access to any hardware and software that your project requires. Deviations from this rule must be well justified (e.g. the hardware cannot be transported or removed).
 
 You may build something of interest to you: solve an actual problem, impact campus, or change the world. Strive to create something that outlives this course.
 
-You are required to collaborate in a group of 4-6 classmates. Needless to say, it is expected that all students contribute equally to the design and implementation of the group’s project. Moreover, it is expected that the project’s scope is appropriate to the group’s size.
+You are required to collaborate in a group of **4-6** classmates. Needless to say, it is expected that all students contribute equally to the design and implementation of the group’s project. Moreover, it is expected that the project’s scope is appropriate to the group’s size.
 
 You are welcome to solicit advice from others outside your group, so long as you respect the course’s policy on academic honesty.
 
@@ -258,7 +258,7 @@ During the **Final Project Presentation** (Release) you demo your project. Each 
 
 | Milestone      | allotted time | Date                   |
 | -------------- | ------------- | ---------------------- |
-| Proposal       | 10 min        | Week 03 (2024-11-05)   |
+| Proposal       | 10 min        | Week 03 (2024-11-12)   |
 | Status Report  | up to 10 min  | every week from now on |
 | Retrospective  | 30-45 min     | Week 11 (2025-01-14)   |
 | Release        | 30 min        | Week 15 (2025-02-11)   |
