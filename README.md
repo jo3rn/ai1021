@@ -134,7 +134,7 @@ Team building. Team dynamics. Continuous Improvement.
 
 ### Week 12 Infrastructure
 
-12 Factor App. Continuous Delivery (CD). Dependabot. GitHub actions. Logging. Monitoring. Service Level Agreement (SLA). Disaster Recovery Plan. Post Mortem. Cost Management. DevOps. Infrastructure as Code.
+12 Factor App. Continuous Delivery (CD). Dependabot. GitHub actions. Docker. Logging. Monitoring. Service Level Agreement (SLA). Disaster Recovery Plan. Post Mortem. Cost Management. DevOps. Infrastructure as Code.
 
 <a id="toc-week-13"></a>
 
@@ -146,7 +146,7 @@ Bug Bounty.
 
 ### Week 14 Security
 
-Passwords. Brute-Force Attacks. Password Managers. Two-Factor Authentication. One-Time Passwords. Hashing. Rainbow Table. Salting. Cryptography. Secret-Key Cryptography. Symmetric Cryptography. Asymmentric Cryptography. Public-Key Cryptography. HTTPS. Passkeys. End-to-End Encryption. Deletion. Secure Deletion. Full-Disk Encryption. Ransomware.
+OWASP. Brute-Force Attacks. Two-Factor Authentication. Hashing. Rainbow Table. Salting. Cryptography. HTTPS. End-to-End Encryption. Deletion.
 
 <a id="toc-week-15"></a>
 
@@ -218,7 +218,9 @@ No books are required. You can ask for recommendations on specific topics though
 
 There are no office hours. The weekly appointments offer sufficient time and are the best opportunity to seek help or ask questions.
 
-You have the option of sending me an email. However, I do not answer them every day.
+For asynchronous communication use the forum in the Moodle course.
+
+If neither is an option, send me an email. However, I do not answer them every day.
 
 <a id="toc-checks-for-understanding"></a>
 
@@ -230,15 +232,41 @@ These checks are *optional*, but pay into your active participation if you prese
 
 <a id="toc-student-conference"></a>
 
-## Student conference
+## Student Conference
 
 The **Student Conference** is an epic event during which we dive into your choices of scientific papers. Everyone presents insights from the world of science and everyone learns something new.
 
+To prepare for this:
+
+1. Search for a scientific publication on a computer science topic of interest to you (in English!). Some search engine suggestions:
+
+   - [ResearchGate](https://www.researchgate.net/)
+   - [Google Scholar](https://scholar.google.com/)
+   - [arxiv.org](https://arxiv.org/)
+   - [Science.gov](https://www.science.gov/)
+
+1. write title & author(s) in the Etherpad on Moodle. If possible, add a link to the full paper
+1. Read and summarize the paper for yourself. Focus on these aspects:
+  
+   - objective
+   - hypothesis
+   - research method
+   - reasoning
+   - result
+
+1. Situate the work in its larger context
+1. What is your opinion? Are you convinced? Is anything unclear? Are there points of criticism?
+1. Create a presentation on your findings.
+1. Book a slot in the planer on Moodle.
+
 Make your presentation appealing, engaging and informative so that we all benefit from it.
+
 
 | Milestone      | allotted time | Date                   |
 | -------------- | ------------- | ---------------------- |
 | Presentation   | 10 min (max!) | Week 08 and Week 09    |
+
+Remark: ["How to Read a Paper"](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf) by S. Keshav is itself a scientific publication, which describes a procedure that you may want to adapt. Please read it in advance, it is only 2 pages long.
 
 <a id="toc-final-project"></a>
 
@@ -254,7 +282,21 @@ You are required to collaborate in a group of **4-6** classmates. Needless to sa
 
 You are welcome to solicit advice from others outside your group, so long as you respect the course’s policy on academic honesty.
 
-During the **Final Project Presentation** (Release) you demo your project. Each member of the group is responsible for a part of the presentation.
+The team composition should be finalized in week 3, in which you **present your team's idea** to everyone.
+
+From then on, at least 2 members of the team give a **weekly update** on the progress of the project.
+
+Shortly before the final phase, the team comes together for a **retrospective**. The team reflects on the collaboration so far and, if necessary, considers adjustments for the future.
+
+During the **Final Project Presentation** you:
+
+- release your software
+- demo your project
+- summarize your organization
+- reflect on your project approach
+- have space to talk about anything else of interest: special hardware, a tricky algorithm, strange bugs, an unexpected turn of events,...
+
+Each member of the group is responsible for a part of the presentation.
 
 | Milestone      | allotted time | Date                   |
 | -------------- | ------------- | ---------------------- |
@@ -271,7 +313,6 @@ During the **Final Project Presentation** (Release) you demo your project. Each 
 - inventory tracking system
 - study objectives and exam planner
 - smart home dashboard (Home Assistant clone)
-
 
 <a id="toc-attendance"></a>
 
