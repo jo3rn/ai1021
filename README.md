@@ -62,7 +62,7 @@ Outlined below is the course’s subject matter, organized by week, each subtitl
 
 ### Week 00 Introduction & Orga
 
-Idea pitches. Group composition. Style guide.
+Getting to know each other. Organizational matters. Idea pitches. Group composition.
 
 <a id="toc-week-1"></a>
 
@@ -104,7 +104,7 @@ Agile Manifesto. Scrum Guide. Retrospective. Extreme Programming.
 
 ### Week 07 Coding together
 
-Acceptance Criteria. Definition of Done. Definition of Ready. Code Review. Task Automation.
+Acceptance Criteria. Definition of Done. Definition of Ready. Code Review. Task Automation. Style guide.
 
 <a id="toc-week-8"></a>
 
