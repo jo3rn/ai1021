@@ -60,13 +60,13 @@ Outlined below is the course’s subject matter, organized by week, each subtitl
 
 <a id="toc-week-0"></a>
 
-### [Week 00 Introduction & Orga](./weeks/week-00.md)
+### [Week 00 Introduction & Orga](/weeks/week-00.md)
 
 Getting to know each other. Organizational matters. Idea pitches. Group composition.
 
 <a id="toc-week-1"></a>
 
-### Week 01 Git
+### [Week 01 Git](/weeks/week-01.md)
 
 Version Control System. Trunk Based Development. Continuous Integration (CI). DORA metrics.
 
@@ -187,30 +187,30 @@ The basis for evaluation:
 
 ## Books
 
-No books are required. You can ask for recommendations on specific topics though. Some books are referenced on the week's page.
+No books are required. You can ask for recommendations on specific topics though. Some books are referenced on the [week's page](/weeks/).
 
 <a id="toc-lectures"></a>
 
 ## Lectures
 
-| Week                          | Topic                           | Date       |
-| ----------------------------- | ------------------------------- | ---------- |
-| [Week 00](./weeks/week-00.md) | Introduction & Orga             | 2024-10-22 |
-| Week 01                       | Git                             | 2024-10-29 |
-| Week 02                       | Ideation & Planning             | 2024-11-05 |
-| Week 03                       | Design                          | 2024-11-12 |
-| Week 04                       | Architecture                    | 2024-11-12 |
-| Week 05                       | Documentation                   | 2024-11-19 |
-| Week 06                       | Agile                           | 2024-11-26 |
-| Week 07                       | Coding together                 | 2024-12-03 |
-| Week 08                       | **Student Conference (1/2)**    | 2024-12-10 |
-| Week 09                       | **Student Conference (2/2)**    | 2024-12-17 |
-| Week 10                       | Testing                         | 2025-01-07 |
-| Week 11                       | Retrospective                   | 2025-01-14 |
-| Week 12                       | Infrastructure                  | 2025-01-21 |
-| Week 13                       | Hackathon                       | 2025-01-28 |
-| Week 14                       | Security                        | 2025-02-04 |
-| Week 15                       | **Final Project Presentations** | 2025-02-11 |
+| Week                         | Topic                           | Date       |
+| ---------------------------- | ------------------------------- | ---------- |
+| [Week 00](/weeks/week-00.md) | Introduction & Orga             | 2024-10-22 |
+| [Week 01](/weeks/week-01.md) | Git                             | 2024-10-29 |
+| Week 02                      | Ideation & Planning             | 2024-11-05 |
+| Week 03                      | Design                          | 2024-11-12 |
+| Week 04                      | Architecture                    | 2024-11-12 |
+| Week 05                      | Documentation                   | 2024-11-19 |
+| Week 06                      | Agile                           | 2024-11-26 |
+| Week 07                      | Coding together                 | 2024-12-03 |
+| Week 08                      | **Student Conference (1/2)**    | 2024-12-10 |
+| Week 09                      | **Student Conference (2/2)**    | 2024-12-17 |
+| Week 10                      | Testing                         | 2025-01-07 |
+| Week 11                      | Retrospective                   | 2025-01-14 |
+| Week 12                      | Infrastructure                  | 2025-01-21 |
+| Week 13                      | Hackathon                       | 2025-01-28 |
+| Week 14                      | Security                        | 2025-02-04 |
+| Week 15                      | **Final Project Presentations** | 2025-02-11 |
 
 <a id="toc-office-hours"></a>
 
