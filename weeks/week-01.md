@@ -8,11 +8,15 @@ or [Git Cheat Sheet](https://rhoenerlebnis.de/_upl/de/_pdf-seite/git_cheatsheet_
 
 ## useful
 
-[git aliases](https://www.git-scm.com/book/en/v2/Git-Basics-Git-Aliases)
+- [trunk based development](https://trunkbaseddevelopment.com/) (one possible collaborative workflow with Git)
 
-[git hooks](https://githooks.com) ([example](https://stackoverflow.com/questions/34660181/check-length-of-commit-message))
+- [conventional commits](https://www.conventionalcommits.org) (specification for commit messages)
 
-[DORA metrics](https://docs.gitlab.com/ee/user/analytics/dora_metrics.html)
+- [git aliases](https://www.git-scm.com/book/en/v2/Git-Basics-Git-Aliases) (rename common git commands to your liking)
+
+- [git hooks](https://githooks.com) (scripts triggered by git events; [pre-commit hook example](https://stackoverflow.com/questions/34660181/check-length-of-commit-message))
+
+- [DORA metrics](https://docs.gitlab.com/ee/user/analytics/dora_metrics.html) (sgather insights into team peformance)
 
 ## Tasks
 
