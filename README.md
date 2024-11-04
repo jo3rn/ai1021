@@ -72,9 +72,9 @@ Version Control System. Trunk Based Development. Continuous Integration (CI). DO
 
 <a id="toc-week-2"></a>
 
-### Week 02 Ideation & Planning
+### [Week 02 Ideation & Planning](/weeks/week-02.md)
 
-Kanban. Prioritization. Wireframes. User Stories.
+Ideas. Features. Kanban. Prioritization. Wireframes. User Stories. Acceptance Criteria.
 
 <a id="toc-week-3"></a>
 
@@ -197,7 +197,7 @@ No books are required. You can ask for recommendations on specific topics though
 | ---------------------------- | ------------------------------- | ---------- |
 | [Week 00](/weeks/week-00.md) | Introduction & Orga             | 2024-10-22 |
 | [Week 01](/weeks/week-01.md) | Git                             | 2024-10-29 |
-| Week 02                      | Ideation & Planning             | 2024-11-05 |
+| [Week 02](/weeks/week-02.md) | Ideation & Planning             | 2024-11-05 |
 | Week 03                      | Design                          | 2024-11-12 |
 | Week 04                      | Architecture                    | 2024-11-12 |
 | Week 05                      | Documentation                   | 2024-11-19 |
