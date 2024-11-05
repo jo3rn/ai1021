@@ -20,17 +20,24 @@ or [Git Cheat Sheet](https://rhoenerlebnis.de/_upl/de/_pdf-seite/git_cheatsheet_
 
 ## Tasks
 
-- visit any public git repository (e.g. on [GitHub](https://github.com/explore) or [Codeberg](https://codeberg.org/explore/repos)). Open the git log. Read through the commit messages. Try to understand what happened. Is it easy? Is it plausible?
+1. (5 min) `git log`
 
-For each of the 2 following problems:
-- create a new Git repository
-- only one file is allowed in the repository
-- create a solution for the leetcode problem
-- everybody needs to commit at least once
+    - visit any public git repository (e.g. on [GitHub](https://github.com/explore) or [Codeberg](https://codeberg.org/explore/repos); e.g. the [Linux kernel](https://github.com/torvalds/linux))
+    - open the git log
+    - read through the commit messages
+    - Try to understand what happened. Is it easy? Is it plausible?
 
-Problems:
-1. [Calculator with method chaining](https://leetcode.com/problems/calculator-with-method-chaining/description/)
-2. [Older Than Me](https://edabit.com/challenge/iwdZiFucR5wkQsFHu)
+1. (60 min) Read these leet code problems:
+
+    1. [Calculator with method chaining](https://leetcode.com/problems/calculator-with-method-chaining/description/)
+    1. [Older Than Me](https://edabit.com/challenge/iwdZiFucR5wkQsFHu)
+
+    For each problem:
+    
+    - create a new Git repository
+    - only one file is allowed in the repository
+    - create a solution for the leetcode problem
+    - everybody needs to commit at least once
 
 ## Checks for Understanding
 
