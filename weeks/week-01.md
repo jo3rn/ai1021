@@ -16,7 +16,7 @@ or [Git Cheat Sheet](https://rhoenerlebnis.de/_upl/de/_pdf-seite/git_cheatsheet_
 
 - [git hooks](https://githooks.com) (scripts triggered by git events; [pre-commit hook example](https://stackoverflow.com/questions/34660181/check-length-of-commit-message))
 
-- [DORA metrics](https://docs.gitlab.com/ee/user/analytics/dora_metrics.html) (sgather insights into team peformance)
+- [DORA metrics](https://docs.gitlab.com/ee/user/analytics/dora_metrics.html) (gather insights into team peformance)
 
 ## Tasks
 
