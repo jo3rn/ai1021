@@ -78,7 +78,7 @@ Ideas. Features. Kanban. Prioritization. Wireframes. User Stories. Acceptance Cr
 
 <a id="toc-week-3"></a>
 
-### Week 03 Design
+### [Week 03 Design](/weeks/week-03.md)
 
 UX. UI. Colors. Icons. Material Design.
 
@@ -195,11 +195,11 @@ No books are required. You can ask for recommendations on specific topics though
 
 | Week                         | Topic                           | Date       |
 | ---------------------------- | ------------------------------- | ---------- |
-| [Week 00](/weeks/week-00.md) | Introduction & Orga             | 2024-10-22 |
-| [Week 01](/weeks/week-01.md) | Git                             | 2024-10-29 |
-| [Week 02](/weeks/week-02.md) | Ideation & Planning             | 2024-11-05 |
-| Week 03                      | Design                          | 2024-11-12 |
-| Week 04                      | Architecture                    | 2024-11-12 |
+| [Week 00](/weeks/week-00.md) | Introduction & Orga             | 2024-10-29 |
+| [Week 01](/weeks/week-01.md) | Git                             | 2024-11-05 |
+| [Week 02](/weeks/week-02.md) | Ideation & Planning             | 2024-11-12 |
+| [Week 03](/weeks/week-03.md) | Design                          | 2024-11-12 |
+| Week 04                      | Architecture                    | 2024-11-19 |
 | Week 05                      | Documentation                   | 2024-11-19 |
 | Week 06                      | Agile                           | 2024-11-26 |
 | Week 07                      | Coding together                 | 2024-12-03 |

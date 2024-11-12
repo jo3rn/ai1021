@@ -15,17 +15,24 @@ You can use the voting tool [Planning Poker Online](https://planningpokeronline.
 
 - collectively decide on an idea for your project
 - each individually, think about 3 features (10 minutes)
+
     - take a sheet of paper, write down a few notes or sketch them out
+
 - brainstorm to collect features
 - prioritize features
+
     - what are core functionalities, what is "nice to have"
     - in what order will they be implemented
     - what is dependent on each other
-- create wireframes of the essential screens and user flowcharts, e.g. via tools such as
+
+- create at least 2 wireframes or flowcharts of the essential user interaction, e.g. via tools such as
+
     - [draw.io](https://draw.io)
     - [Figma](https://www.figma.com/)
     - or drawn by hand
+
 - decide on a Kanban board to use, e.g. [GitHub Projects](https://github.com/features/issues)
+
     - decide on a column layout (e.g. "ToDo", "In Progress", "Code Review", "QA", "Done")
     - write [User Stories](https://en.wikipedia.org/wiki/User_story)
     - write [Acceptance Criteria](https://www.atlassian.com/work-management/project-management/acceptance-criteria) 
