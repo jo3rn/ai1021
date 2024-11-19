@@ -4,6 +4,11 @@
 1. [Time & Location](#toc-time-location)
 1. [Learning Objectives](#toc-learning-objectives)
 1. [Outline](#toc-outline)
+   1. [Introduction & Orga](#toc-week-0)
+   1. [Git](#toc-week-1)
+   1. [Ideation & Planning](#toc-week-2)
+   1. [Design](#toc-week-3)
+   1. [Architecture](#toc-week-4)
 1. [Grades](#toc-grades)
 1. [Books](#toc-books)
 1. [Lectures](#toc-lectures)
@@ -84,11 +89,11 @@ UX. UI. Colors. Icons. Material Design.
 
 <a id="toc-week-4"></a>
 
-### Week 04 Architecture
-
-<a id="toc-week-5"></a>
+### [Week 04 Architecture](/weeks/week-04.md)
 
 Components. Interfaces. Configuration. Decision Records. Model-View-Controller. Microservices. Events. Feature Toggles.
+
+<a id="toc-week-5"></a>
 
 ### Week 05 Documentation
 
@@ -199,7 +204,7 @@ No books are required. You can ask for recommendations on specific topics though
 | [Week 01](/weeks/week-01.md) | Git                             | 2024-11-05 |
 | [Week 02](/weeks/week-02.md) | Ideation & Planning             | 2024-11-12 |
 | [Week 03](/weeks/week-03.md) | Design                          | 2024-11-12 |
-| Week 04                      | Architecture                    | 2024-11-19 |
+| [Week 04](/weeks/week-04.md) | Architecture                    | 2024-11-19 |
 | Week 05                      | Documentation                   | 2024-11-19 |
 | Week 06                      | Agile                           | 2024-11-26 |
 | Week 07                      | Coding together                 | 2024-12-03 |
