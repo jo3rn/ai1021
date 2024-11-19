@@ -13,25 +13,24 @@
 
 You can use the voting tool [Planning Poker Online](https://planningpokeronline.com/) to decide on some of the points below.
 
-- collectively decide on an idea for your project
-- each individually, think about 3 features (10 minutes)
+- (10 min) collectively decide on an idea for your project
+- (10 min) each individually, think about 3 features
 
     - take a sheet of paper, write down a few notes or sketch them out
 
-- brainstorm to collect features
-- prioritize features
+- (15 min) group all your feature ideas and prioritize them
 
     - what are core functionalities, what is "nice to have"
     - in what order will they be implemented
     - what is dependent on each other
 
-- create at least 2 wireframes or flowcharts of the essential user interaction, e.g. via tools such as
+- (15 min) create at least 2 wireframes or flowcharts of the essential user interaction, e.g. via tools such as
 
     - [draw.io](https://draw.io)
     - [Figma](https://www.figma.com/)
     - or drawn by hand
 
-- decide on a Kanban board to use, e.g. [GitHub Projects](https://github.com/features/issues)
+- (20 min) decide on a Kanban board to use, e.g. [GitHub Projects](https://github.com/features/issues)
 
     - decide on a column layout (e.g. "ToDo", "In Progress", "Code Review", "QA", "Done")
     - write [User Stories](https://en.wikipedia.org/wiki/User_story)
