@@ -23,9 +23,10 @@ on your own:
 - introduce yourself to the team (skills, preferences, weaknesses & strenghts, goals, hobbies...)
 - play a game of [skribbl.io](https://skribbl.io/)
 - decide on a a team name
-- create a Git repository on [GitHub](https://github.com/) or [HS-Fulda GitLab](https://gitlab.informatik.hs-fulda.de/)
+- create an [organization on GitHub](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/about-organizations) for your team
     - add all team members
-    - add jo3rn (GitHub) or fdai0178 (HS-Gitlab)
+    - add GitHub user jo3rn
+- create a Git repository on [GitHub](https://github.com/) within that organization
     - create `README.md`, add a list with first & last names (+ usernames) of the team (alternatively, create a [`humans.txt`](https://humanstxt.org/))
 
 ## Checks for Understanding
