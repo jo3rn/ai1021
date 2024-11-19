@@ -16,6 +16,12 @@ Books:
     3. repetition
     4. contrast
 
+![Screenshot of Codeberg's "explore" page with examples for proximity, alignment, repetition, contrast](/img/codeberg_explore_page.png)
+
+Source: [codeberg.org](https://codeberg.org/explore/repos)
+
+Bad example: [userinyerface.com](https://userinyerface.com)
+
 ## Tasks
 
 - Collect within the team:
@@ -25,11 +31,11 @@ Books:
 
   which you find particularly successful or horrible in terms of design?
 
-    - Find a total of 4 examples (1 for each category and extreme), e.g. image, video, live walk through. [Here's one to get you started](https://en.wikipedia.org/wiki/Juicero).
+    - (10 min) Find a total of 4 examples (1 for each category and extreme), e.g. image, video, live walk through. [Here's one to get you started](https://en.wikipedia.org/wiki/Juicero).
     - What properties make these examples successful or horrible?
-    - Present your findings to the rest of the class.
+    - (4 min) Present your findings to the rest of the class.
 
-- Show and describe your wireframes from the last week to the class.
+- (5 min) Show and describe your wireframes from the last week to the class.
 
 ## Checks for Understanding
 
