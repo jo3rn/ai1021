@@ -199,24 +199,24 @@ No books are required. You can ask for recommendations on specific topics though
 
 ## Lectures
 
-| Week                         | Topic                           | Date       |
-| ---------------------------- | ------------------------------- | ---------- |
-| [Week 00](/weeks/week-00.md) | Introduction & Orga             | 2024-10-29 |
-| [Week 01](/weeks/week-01.md) | Git                             | 2024-11-05 |
-| [Week 02](/weeks/week-02.md) | Ideation & Planning             | 2024-11-12 |
-| [Week 03](/weeks/week-03.md) | Design                          | 2024-11-12 |
-| [Week 04](/weeks/week-04.md) | Architecture                    | 2024-11-19 |
-| [Week 05](/weeks/week-05.md) | Documentation                   | 2024-11-19 |
-| Week 06                      | Agile                           | 2024-11-26 |
-| Week 07                      | Coding together                 | 2024-12-03 |
-| Week 08                      | **Student Conference (1/2)**    | 2024-12-10 |
-| Week 09                      | **Student Conference (2/2)**    | 2024-12-17 |
-| Week 10                      | Testing                         | 2025-01-07 |
-| Week 11                      | Retrospective                   | 2025-01-14 |
-| Week 12                      | Infrastructure                  | 2025-01-21 |
-| Week 13                      | Hackathon                       | 2025-01-28 |
-| Week 14                      | Security                        | 2025-02-04 |
-| Week 15                      | **Final Project Presentations** | 2025-02-11 |
+| Week                            | Topic                                                   | Date       |
+| ---------------------------- | ------------------------------------------------------- | ---------- |
+| [Week 00](/weeks/week-00.md)    | Introduction & Orga                                     | 2024-10-29 |
+| [Week 01](/weeks/week-01.md)    | Git                                                     | 2024-11-05 |
+| [Week 02](/weeks/week-02.md)    | Ideation & Planning                                     | 2024-11-12 |
+| [Week 03](/weeks/week-03.md)    | Design                                                  | 2024-11-12 |
+| [Week 04](/weeks/week-04.md)    | Architecture                                            | 2024-11-19 |
+| [Week 05](/weeks/week-05.md)    | Documentation                                           | 2024-11-19 |
+| Week 06                         | Agile                                                   | 2024-11-26 |
+| Week 07                         | Coding together                                         | 2024-12-03 |
+| [Week 08](/weeks/week-08-09.md) | **[Student Conference (1/2)](#toc-student-conference)** | 2024-12-10 |
+| [Week 09](/weeks/week-08-09.md) | **[Student Conference (2/2)](#toc-student-conference)** | 2024-12-17 |
+| Week 10                         | Testing                                                 | 2025-01-07 |
+| Week 11                         | Retrospective                                           | 2025-01-14 |
+| Week 12                         | Infrastructure                                          | 2025-01-21 |
+| Week 13                         | Hackathon                                               | 2025-01-28 |
+| Week 14                         | Security                                                | 2025-02-04 |
+| Week 15                         | **Final Project Presentations**                         | 2025-02-11 |
 
 <a id="toc-office-hours"></a>
 
