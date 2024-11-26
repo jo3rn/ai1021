@@ -9,6 +9,7 @@
    1. [Ideation & Planning](#toc-week-2)
    1. [Design](#toc-week-3)
    1. [Architecture](#toc-week-4)
+   1. [Documentation](#toc-week-5)
 1. [Grades](#toc-grades)
 1. [Books](#toc-books)
 1. [Lectures](#toc-lectures)
@@ -95,9 +96,9 @@ Components. Interfaces. Configuration. Decision Records. Model-View-Controller. 
 
 <a id="toc-week-5"></a>
 
-### Week 05 Documentation
+### [Week 05 Documentation](/weeks/week-05.md)
 
-README.md. OpenAPI. Swagger. Wikis.
+README.md. CONTRIBUTING.md. OpenAPI. Swagger. Wikis. Diátaxis.
 
 <a id="toc-week-6"></a>
 
@@ -205,7 +206,7 @@ No books are required. You can ask for recommendations on specific topics though
 | [Week 02](/weeks/week-02.md) | Ideation & Planning             | 2024-11-12 |
 | [Week 03](/weeks/week-03.md) | Design                          | 2024-11-12 |
 | [Week 04](/weeks/week-04.md) | Architecture                    | 2024-11-19 |
-| Week 05                      | Documentation                   | 2024-11-19 |
+| [Week 05](/weeks/week-05.md) | Documentation                   | 2024-11-19 |
 | Week 06                      | Agile                           | 2024-11-26 |
 | Week 07                      | Coding together                 | 2024-12-03 |
 | Week 08                      | **Student Conference (1/2)**    | 2024-12-10 |
