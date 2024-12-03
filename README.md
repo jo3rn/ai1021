@@ -10,6 +10,9 @@
    1. [Design](#toc-week-3)
    1. [Architecture](#toc-week-4)
    1. [Documentation](#toc-week-5)
+   1. [Agile](#toc-week-6)
+   1. [Coding together](#toc-week-7)
+   1. [Scientific Presentations](#toc-week-8)
 1. [Grades](#toc-grades)
 1. [Books](#toc-books)
 1. [Lectures](#toc-lectures)
@@ -102,25 +105,25 @@ README.md. CONTRIBUTING.md. OpenAPI. Swagger. Wikis. Diátaxis.
 
 <a id="toc-week-6"></a>
 
-### Week 06 Agile
+### [Week 06 Agile](/weeks/week-06.md)
 
 Agile Manifesto. Scrum Guide. Retrospective. Extreme Programming.
 
 <a id="toc-week-7"></a>
 
-### Week 07 Coding together
+### [Week 07 Coding together](/weeks/week-07.md)
 
 Acceptance Criteria. Definition of Done. Definition of Ready. Code Review. Task Automation. Style guide.
 
 <a id="toc-week-8"></a>
 
-### Week 08 Scientific Presentations (1/2)
+### [Week 08 Scientific Presentations (1/2)](/weeks/week-08-09.md)
 
 Scientific Method. Peer Review.
 
 <a id="toc-week-9"></a>
 
-### Week 09 Scientific Presentations (2/2)
+### [Week 09 Scientific Presentations (2/2)](/weeks/week-08-09.md)
 
 Scientific Method. Peer Review.
 
@@ -200,15 +203,15 @@ No books are required. You can ask for recommendations on specific topics though
 ## Lectures
 
 | Week                            | Topic                                                   | Date       |
-| ---------------------------- | ------------------------------------------------------- | ---------- |
+| ------------------------------- | ------------------------------------------------------- | ---------- |
 | [Week 00](/weeks/week-00.md)    | Introduction & Orga                                     | 2024-10-29 |
 | [Week 01](/weeks/week-01.md)    | Git                                                     | 2024-11-05 |
 | [Week 02](/weeks/week-02.md)    | Ideation & Planning                                     | 2024-11-12 |
 | [Week 03](/weeks/week-03.md)    | Design                                                  | 2024-11-12 |
 | [Week 04](/weeks/week-04.md)    | Architecture                                            | 2024-11-19 |
-| [Week 05](/weeks/week-05.md)    | Documentation                                           | 2024-11-19 |
-| Week 06                         | Agile                                                   | 2024-11-26 |
-| Week 07                         | Coding together                                         | 2024-12-03 |
+| [Week 05](/weeks/week-05.md)    | Documentation                                           | 2024-11-26 |
+| [Week 06](/weeks/week-06.md)    | Agile                                                   | 2024-12-03 |
+| [Week 07](/weeks/week-07.md)    | Coding together                                         | 2024-12-03 |
 | [Week 08](/weeks/week-08-09.md) | **[Student Conference (1/2)](#toc-student-conference)** | 2024-12-10 |
 | [Week 09](/weeks/week-08-09.md) | **[Student Conference (2/2)](#toc-student-conference)** | 2024-12-17 |
 | Week 10                         | Testing                                                 | 2025-01-07 |
