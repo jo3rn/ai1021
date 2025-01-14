@@ -14,6 +14,7 @@
    1. [Coding together](#toc-week-7)
    1. [Scientific Presentations](#toc-week-8)
    1. [Testing](#toc-week-10)
+   1. [Retrospective](#toc-week-11)
 1. [Grades](#toc-grades)
 1. [Books](#toc-books)
 1. [Lectures](#toc-lectures)
@@ -136,7 +137,7 @@ Testing Pyramid. Unit Tests. Test Driven Development (TDD). Decoupling. Test Aut
 
 <a id="toc-week-11"></a>
 
-### Week 11 Retrospective
+### [Week 11 Retrospective](/weeks/week-11.md)
 
 Team building. Team dynamics. Continuous Improvement.
 
@@ -204,7 +205,7 @@ No books are required. You can ask for recommendations on specific topics though
 ## Lectures
 
 | Week                            | Topic                                                   | Date       |
-| ------------------------------- | ------------------------------------------------------- | ---------- |
+|---------------------------------| ------------------------------------------------------- | ---------- |
 | [Week 00](/weeks/week-00.md)    | Introduction & Orga                                     | 2024-10-29 |
 | [Week 01](/weeks/week-01.md)    | Git                                                     | 2024-11-05 |
 | [Week 02](/weeks/week-02.md)    | Ideation & Planning                                     | 2024-11-12 |
@@ -216,7 +217,7 @@ No books are required. You can ask for recommendations on specific topics though
 | [Week 08](/weeks/week-08-09.md) | **[Student Conference (1/2)](#toc-student-conference)** | 2024-12-10 |
 | [Week 09](/weeks/week-08-09.md) | **[Student Conference (2/2)](#toc-student-conference)** | 2024-12-17 |
 | [Week 10](/weeks/week-10.md)    | Testing                                                 | 2025-01-07 |
-| Week 11                         | Retrospective                                           | 2025-01-14 |
+| [Week 11](/weeks/week-11.md)    | Retrospective                                           | 2025-01-14 |
 | Week 12                         | Infrastructure                                          | 2025-01-21 |
 | Week 13                         | Hackathon                                               | 2025-01-28 |
 | Week 14                         | Security                                                | 2025-02-04 |
