@@ -13,6 +13,7 @@
    1. [Agile](#toc-week-6)
    1. [Coding together](#toc-week-7)
    1. [Scientific Presentations](#toc-week-8)
+   1. [Testing](#toc-week-10)
 1. [Grades](#toc-grades)
 1. [Books](#toc-books)
 1. [Lectures](#toc-lectures)
@@ -129,7 +130,7 @@ Scientific Method. Peer Review.
 
 <a id="toc-week-10"></a>
 
-### Week 10 Testing
+### [Week 10 Testing](/weeks/week-10.md)
 
 Testing Pyramid. Unit Tests. Test Driven Development (TDD). Decoupling. Test Automation.
 
@@ -214,7 +215,7 @@ No books are required. You can ask for recommendations on specific topics though
 | [Week 07](/weeks/week-07.md)    | Coding together                                         | 2024-12-03 |
 | [Week 08](/weeks/week-08-09.md) | **[Student Conference (1/2)](#toc-student-conference)** | 2024-12-10 |
 | [Week 09](/weeks/week-08-09.md) | **[Student Conference (2/2)](#toc-student-conference)** | 2024-12-17 |
-| Week 10                         | Testing                                                 | 2025-01-07 |
+| [Week 10](/weeks/week-10.md)    | Testing                                                 | 2025-01-07 |
 | Week 11                         | Retrospective                                           | 2025-01-14 |
 | Week 12                         | Infrastructure                                          | 2025-01-21 |
 | Week 13                         | Hackathon                                               | 2025-01-28 |
