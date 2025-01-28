@@ -302,10 +302,44 @@ Shortly before the final phase, the team comes together for a **retrospective**.
 During the **Final Project Presentation** you:
 
 - release your software
-- demo your project
+   - what is the goal or solved problem
+
+- demonstrate all features and functionalities
+   - walkthrough of the user experience
+   - design considerations
+
+- explain technical aspects
+   - system architecture, key components and their interactions
+   - technical challenges you faced
+   - key code snippets
+   - performance metrics and optimization efforts
+   - testing process
+   - CI/CD pipeline
+
 - summarize your organization
-- reflect on your project approach
-- have space to talk about anything else of interest: special hardware, a tricky algorithm, strange bugs, an unexpected turn of events,...
+   - roles & responsibilities
+   - project timeline, milestones
+   - ways of working together (Agile, Scrum, Kanban,...)
+   - project management tools
+   - quality assurance (code review, bug tracking,...)
+   - documentation artefacts
+
+- reflect on your approach: if you would start a new project, what would you
+   - do the same way again?
+   - do differently?
+   - no longer do at all?
+
+- discuss potential future enhancements
+
+- have space to talk about anything else of interest:
+   - special hardware
+   - tricky algorithm
+   - strange bugs
+   - unexpected turn of events
+   - user feedback
+   - specific efforts (e.g. accessibility, localization)
+   - security considerations
+   - ...
 
 Each member of the group is responsible for a part of the presentation.
 
