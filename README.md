@@ -15,6 +15,9 @@
    1. [Scientific Presentations](#toc-week-8)
    1. [Testing](#toc-week-10)
    1. [Retrospective](#toc-week-11)
+   1. [Infrastructure](#toc-week-12)
+   1. [Bug Bounty / Hackathon](#toc-week-13)
+   1. [Security](#toc-week-14)
 1. [Grades](#toc-grades)
 1. [Books](#toc-books)
 1. [Lectures](#toc-lectures)
@@ -155,9 +158,9 @@ Bug Bounty.
 
 <a id="toc-week-14"></a>
 
-### Week 14 Security
+### [Week 14 Security](/weeks/week-14.md)
 
-OWASP. Brute-Force Attacks. Two-Factor Authentication. Hashing. Rainbow Table. Salting. Cryptography. HTTPS. End-to-End Encryption. Deletion.
+OWASP Top 10. Brute-Force Attacks. Two-Factor Authentication. Hashing. Rainbow Table. Salting. Cryptography. HTTPS. End-to-End Encryption. Deletion.
 
 <a id="toc-week-15"></a>
 
@@ -218,10 +221,10 @@ No books are required. You can ask for recommendations on specific topics though
 | [Week 09](/weeks/week-08-09.md) | **[Student Conference (2/2)](#toc-student-conference)** | 2024-12-17 |
 | [Week 10](/weeks/week-10.md)    | Testing                                                 | 2025-01-14 |
 | [Week 11](/weeks/week-11.md)    | Retrospective                                           | 2025-01-21 |
-| Week 12                         | Infrastructure                                          | 2025-01-28 |
-| Week 13                         | Hackathon                                               | 2025-01-28 |
-| Week 14                         | Security                                                | 2025-02-04 |
-| Week 15                         | **Final Project Presentations**                         | 2025-02-11 |
+| [Week 12](/weeks/week-12.md)    | Infrastructure                                          | 2025-01-28 |
+| [Week 13](/weeks/week-13.md)    | Hackathon                                               | 2025-02-04 |
+| [Week 14](/weeks/week-14.md)    | Security                                                | 2025-02-04 |
+| [Week 15](#toc-final-project)   | **Final Project Presentations**                         | 2025-02-11 |
 
 <a id="toc-office-hours"></a>
 
@@ -297,7 +300,7 @@ The team composition should be finalized in week 3, in which you **present your 
 
 From then on, at least 2 members of the team give a **weekly update** on the progress of the project.
 
-Shortly before the final phase, the team comes together for a **retrospective**. The team reflects on the collaboration so far and, if necessary, considers adjustments for the future.
+Shortly before the final phase, the team comes together for a [**retrospective**](/weeks/week-11.md). The team reflects on the collaboration so far and, if necessary, considers adjustments for the future.
 
 During the **Final Project Presentation** you:
 
@@ -329,7 +332,7 @@ During the **Final Project Presentation** you:
    - do differently?
    - no longer do at all?
 
-- discuss potential future enhancements
+- discuss potential future enhancements to your software
 
 - have space to talk about anything else of interest:
    - special hardware
@@ -356,7 +359,7 @@ Each member of the group is responsible for a part of the presentation.
 - restaurant table reservation system
 - file hosting service (NextCloud clone)
 - inventory tracking system
-- study objectives and exam planner
+- planner for exams & learning objectives
 - smart home dashboard (Home Assistant clone)
 
 <a id="toc-attendance"></a>
